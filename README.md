@@ -1,5 +1,5 @@
 # "Black and Color" taskbar pack
-Must have Open-Shell installed to use this pack
+Must have [Open-Shell](https://github.com/Open-Shell/Open-Shell-Menu) installed to use this pack
 
 This pack gives your taskbar some cool neon aesthetic or something. idk lol
 
